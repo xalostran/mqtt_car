@@ -10,4 +10,4 @@ The car is a subscriber of the joystick which is a publisher of data onto your b
 
 Important note: 
 
-The two folders in this project (car_subscriber and joystick_pi) should be compiled in two separate VS Code windows with the platformIO extension. If you would like to use a different board, you will need to change your [env] properties in the platform.ini file.
+The two folders in this project (car_subscriber and joystick_pi) should be compiled in two separate VS Code windows with the PlatformIO extension. If you would like to use a different board, you will need to change your [env] properties in the platform.ini file. This will however be taken care of when creating a new PlatformIO project from scratch.
